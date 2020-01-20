@@ -4,6 +4,6 @@
 	<li>Download/Clone Project</li>
 <li>Open Command Prompt </li>
 <li>Navigate to the location where you have stored the Project via CMD </li>
-<li>Run SET FLASK_APP = api.py </li>
-<li>Run flask run </li>
+	<li>Run <b>SET FLASK_APP = api.py </b></li>
+	<li>Run <b>flask run </b> </li>
 </ul>
